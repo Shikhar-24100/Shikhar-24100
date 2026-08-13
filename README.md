@@ -57,6 +57,9 @@ Most recently, I interned at **Accenture**, where I built an AI-driven monitorin
 ## GitHub Activity
 
 <div align="center">
+<div align="center">
+<sub>500+ problems solved on LeetCode · Rank 1, college-level DSA competition</sub>
+</div>
 
 <br/>
 
@@ -69,7 +72,3 @@ Most recently, I interned at **Accenture**, where I built an AI-driven monitorin
 </div>
 
 <br/>
-
-<div align="center">
-<sub>500+ problems solved on LeetCode · Rank 1, college-level DSA competition</sub>
-</div>
