@@ -54,14 +54,7 @@ Most recently, I interned at **Accenture**, where I built an AI-driven monitorin
 
 <br/>
 
-## GitHub Activity
 
-<div align="center">
-<div align="center">
-<sub>500+ problems solved on LeetCode · Rank 1, college-level DSA competition</sub>
-</div>
-
-<br/>
 
 <div align="center">
   <h3>🏋️ Gym Consistency & Training Heatmap</h3>
@@ -69,6 +62,16 @@ Most recently, I interned at **Accenture**, where I built an AI-driven monitorin
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=Shikhar-24100&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhar-24100&layout=compact&theme=default&hide_border=true" width="42%"/>
+</div>
+
+<br/>
+
+
+## GitHub Activity
+
+<div align="center">
+<div align="center">
+<!-- <sub>500+ problems solved on LeetCode · Rank 1, college-level DSA competition</sub> -->
 </div>
 
 <br/>
