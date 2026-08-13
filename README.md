@@ -57,6 +57,13 @@ Most recently, I interned at **Accenture**, where I built an AI-driven monitorin
 ## GitHub Activity
 
 <div align="center">
+
+<br/>
+
+<div align="center">
+  <h3>🏋️ Gym Consistency & Training Heatmap</h3>
+  <img src="https://pixe.la/v1/users/shikhar-24100/graphs/gym-tracker" alt="Gym Workout Heatmap" />
+</div>
 <img src="https://github-readme-stats.vercel.app/api?username=Shikhar-24100&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shikhar-24100&layout=compact&theme=default&hide_border=true" width="42%"/>
 </div>
