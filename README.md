@@ -6,7 +6,7 @@
 Machine Learning · Backend Systems · Distributed Systems
 
 [![Email](https://img.shields.io/badge/-shrishikhar1709%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:shrishikhar1709@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shikhar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shikhar-shrivastav-14879a2a4)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/Shikhar-24100)
 
 </div>
@@ -37,7 +37,7 @@ Most recently, I interned at **Accenture**, where I built an AI-driven monitorin
 
 | Project | Description |
 |---|---|
-| **[Distributed Rate Limiter](https://github.com/Shikhar-24100)** | Token Bucket algorithm implementation, thread-safe, built for horizontal scaling across microservices |
+| **[Distributed Rate Limiter](https://github.com/Shikhar-24100/Distributed-Rate-Limiter)** | Token Bucket algorithm implementation, thread-safe, built for horizontal scaling across microservices |
 | **[GPT2-124M from Scratch](https://github.com/Shikhar-24100)** | Full transformer architecture in PyTorch — attention, layer norm, training loop — no shortcuts. 97% accuracy on downstream classification |
 | **[Digital Modulation Classifier](https://github.com/Shikhar-24100)** | CNN trained on spectrogram features to classify 6 modulation schemes, 87.8% accuracy |
 | **[Offline Hindi Voice Assistant](https://github.com/Shikhar-24100)** | Raspberry Pi assistant running a local LLM, fully offline, built at HackMol 7.0 |
