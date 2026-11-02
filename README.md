@@ -42,7 +42,7 @@ Currently exploring system design, backend infrastructure, and building reliable
 
 ## Featured Projects
 
-### High-Performance LLM Gateway & Smart Proxy
+### [High-Performance LLM Gateway & Smart Proxy](https://github.com/Shikhar-24100/janus-proxy)
 **Go · Redis · ClickHouse · Docker**
 
 Built an OpenAI-compatible reverse proxy for routing requests across multiple LLM providers.
@@ -60,7 +60,7 @@ Built a distributed Token Bucket rate limiter designed to work across multiple b
 - Tiered rate limits, standard HTTP rate-limit headers, and graceful handling of Redis outages.
 - Concurrent load testing to validate rate limiting under contention.
 
-### GPT-2 124M — From Scratch
+### [GPT-2 124M — From Scratch](https://github.com/Shikhar-24100/LLM-from-scratch)
 **Python · PyTorch · Transformers**
 
 Implemented the GPT-2 architecture from first principles, including multi-head attention, Transformer blocks, and layer normalization.
