@@ -85,8 +85,7 @@ Implemented the GPT-2 architecture from first principles, including multi-head a
 - **700+** problems solved on LeetCode and **100+** on GeeksforGeeks.
 - **Rank 472 / ~40,000** in LeetCode Weekly Contest 516 (Top 1.2%).
 - **Rank 1** in a college-level DSA competition.
-- **HackMol 7.0 Finalist** — built a fake news detection system.
-
+- **HackMol 7.0 Finalist** — built a offline Hindi voice assistant.
 ---
 
 <div align="center">
