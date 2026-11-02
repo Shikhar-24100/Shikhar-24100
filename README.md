@@ -1,65 +1,98 @@
+ 
 <div align="center">
 
 # Shikhar Shrivastav
 
-**Electronics & Communication Engineering, NIT Jalandhar**
-Machine Learning · Backend Systems · Distributed Systems
+**Final-Year ECE Student · NIT Jalandhar**
 
-[![Email](https://img.shields.io/badge/-shrishikhar1709%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:shrishikhar1709@gmail.com)
+Backend Engineering · Distributed Systems · Machine Learning
+
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:shrishikhar1709@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shikhar-shrivastav-14879a2a4)
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/Shikhar-24100)
 
 </div>
 
-<br/>
+---
 
-## About
+## About Me
 
-I'm a final-year ECE student at NIT Jalandhar working across machine learning and backend systems. My interest is in understanding things from the ground up — I've built a language model from scratch rather than just fine-tuning one, and a rate limiter from first principles rather than pulling in a library.
+I'm a final-year Electronics and Communication Engineering student at **NIT Jalandhar**, interested in backend engineering, distributed systems, and machine learning.
 
-Most recently, I interned at **Accenture**, where I built an AI-driven monitoring system for enterprise Workday integrations, including a secure OAuth2 connector and an automated remediation engine with a human-in-the-loop approval step.
+I enjoy understanding how things work under the hood. That curiosity has led me to build a GPT-2 architecture from scratch in PyTorch, implement a distributed rate limiter using Redis and Lua, and develop a multi-provider LLM gateway in Go.
 
-<br/>
+Previously, I interned at **Accenture**, where I worked on AI-driven monitoring and automated remediation for enterprise Workday integrations.
+
+Currently exploring system design, backend infrastructure, and building reliable, scalable software.
 
 ## Experience
 
-**Custom Software Engineering Associate Intern — Accenture** · Jun 2026 – Jul 2026
-- Built an AI-driven integration monitor for Workday runs, cutting manual log review time by 70%
-- Implemented an OAuth2-based connector for secure, automated ingestion of integration metadata
-- Designed an AI remediation engine that classifies failed runs and triggers recovery workflows with human approval
+**Custom Software Engineering Associate Intern — Accenture**  
+*June 2026 – July 2026*
 
-**Summer Intern — NIT Jalandhar** · Jun 2025 – Jul 2025
-- Produced 9 Manim visualizations of wireless communication concepts, adopted for faculty lecture use
+- Developed an AI-driven Workday Integration Monitor with configurable polling, reducing manual log review time by approximately 70%.
+- Built a secure OAuth2 connector to retrieve integration metadata through REST APIs.
+- Designed an AI remediation engine to classify failed integration runs and initiate recovery workflows with human-in-the-loop approval.
 
-<br/>
+**Summer Intern — NIT Jalandhar**  
+*June 2025 – July 2025*
+
+- Created 9 Manim animations explaining wireless communication concepts, including modulation, signal propagation, and channel effects.
+- Visualizations were adopted by faculty for classroom teaching and student learning.
 
 ## Featured Projects
 
-| Project | Description |
+### High-Performance LLM Gateway & Smart Proxy
+**Go · Redis · ClickHouse · Docker**
+
+Built an OpenAI-compatible reverse proxy for routing requests across multiple LLM providers.
+
+- Zero-copy SSE streaming with under 5 ms additional latency.
+- Circuit-breaker fallbacks across providers, with per-tenant request and token limits.
+- Asynchronous usage analytics and cost tracking through ClickHouse.
+
+### [Distributed API Rate Limiter](https://github.com/Shikhar-24100/Distributed-Rate-Limiter)
+**Python · FastAPI · Redis · Lua**
+
+Built a distributed Token Bucket rate limiter designed to work across multiple backend instances.
+
+- Atomic Redis Lua operations to prevent race conditions.
+- Tiered rate limits, standard HTTP rate-limit headers, and graceful handling of Redis outages.
+- Concurrent load testing to validate rate limiting under contention.
+
+### GPT-2 124M — From Scratch
+**Python · PyTorch · Transformers**
+
+Implemented the GPT-2 architecture from first principles, including multi-head attention, Transformer blocks, and layer normalization.
+
+- Built modular Transformer components using object-oriented design.
+- Loaded pretrained GPT-2 weights and fine-tuned the model for Enron spam classification.
+- Achieved **97% test accuracy** on downstream classification.
+
+## Technical Skills
+
+| Area | Technologies |
 |---|---|
-| **[Distributed Rate Limiter](https://github.com/Shikhar-24100/Distributed-Rate-Limiter)** | Token Bucket algorithm implementation, thread-safe, built for horizontal scaling across microservices |
-| **[GPT2-124M from Scratch](https://github.com/Shikhar-24100)** | Full transformer architecture in PyTorch — attention, layer norm, training loop — no shortcuts. 97% accuracy on downstream classification |
-| **[Digital Modulation Classifier](https://github.com/Shikhar-24100)** | CNN trained on spectrogram features to classify 6 modulation schemes, 87.8% accuracy |
-| **[Offline Hindi Voice Assistant](https://github.com/Shikhar-24100)** | Raspberry Pi assistant running a local LLM, fully offline, built at HackMol 7.0 |
+| **Languages** | C++, Python, Go, SQL |
+| **Backend & Systems** | FastAPI, REST APIs, Microservices, Multithreading, System Design |
+| **Databases & Caching** | Redis, ClickHouse, MySQL, MongoDB |
+| **ML & AI** | PyTorch, scikit-learn, NumPy, pandas, Hugging Face, LangChain |
+| **Tools & DevOps** | Docker, CI/CD, Git, OAuth2 |
+| **Core CS** | DSA, Operating Systems, Computer Networks, DBMS, Distributed Systems |
 
-<br/>
+## Achievements
 
-## Skills
+- **700+** problems solved on LeetCode and **100+** on GeeksforGeeks.
+- **Rank 472 / ~40,000** in LeetCode Weekly Contest 516 (Top 1.2%).
+- **Rank 1** in a college-level DSA competition.
+- **HackMol 7.0 Finalist** — built a fake news detection system.
 
-**Languages:** C++, Python, SQL
-**ML & Data:** PyTorch, scikit-learn, NumPy, pandas
-**Systems:** Microservices, Multithreading, OOP, Distributed Systems, System Design
-**Cloud & DevOps:** AWS S3, Docker, CI/CD, OAuth2, REST APIs
-**Databases:** MySQL, MongoDB, FAISS, Pinecone
-
-
-
-
-## GitHub Activity
+---
 
 <div align="center">
-<div align="center">
-<!-- <sub>500+ problems solved on LeetCode · Rank 1, college-level DSA competition</sub> -->
+
+*Interested in backend systems, infrastructure, and the engineering behind scalable software.*
+
+**[GitHub](https://github.com/Shikhar-24100) · [LinkedIn](https://linkedin.com/in/shikhar-shrivastav-14879a2a4) · [Email](mailto:shrishikhar1709@gmail.com)**
+
 </div>
-
-<br/>
